@@ -29,5 +29,5 @@
   - Adcionar novos produtos (nome e quantidade)
   - Atualizar a quantidade de um produto
   - Listar todos os produtos cadastrados
-  - Mostrar produtos com estoque zerado
+  - Mostrar produtos com estoque zerado.
   
